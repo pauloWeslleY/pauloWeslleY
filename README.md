@@ -33,8 +33,12 @@
   </div>
   
 ##  
+
+- 🔭 FrontEnd Developer
   
 <!-- 
+
+    - 🔭 Atualmente venho estudando alguns tecnologias 
     - 🔭 I’m currently working on ...
     - 🌱 I’m currently learning ...
     - 👯 I’m looking to collaborate on ...
