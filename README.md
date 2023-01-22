@@ -1,4 +1,4 @@
-### Oi, Eu sou Weslley 👋
+### Olá, Eu sou Weslley de Lima Desenvolvedor Web Front End Jr 👋
 ##
 <div align="center">
   <a href="https://weslleylima.vercel.app">
@@ -12,14 +12,14 @@
   <img align="center" alt="Weslley-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Weslley-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Weslley-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<!--   <img align="center" alt="Weslley-AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"> -->
+  <img align="center" alt="Weslley-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+
   <img align="center" alt="Weslley-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-<!--   <img align="center" alt="Weslley-AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"> -->
+
   <img align="center" alt="Weslley-Npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Weslley-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Weslley-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Weslley-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Weslley-Atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg">
+  <img align="center" alt="Weslley-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Weslley-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master//icons/git/git-plain.svg">
   <img align="center" alt="Weslley-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
   
@@ -32,9 +32,7 @@
   <a href="https://www.linkedin.com/in/paulo-weslley-de-lima-firmino-17851a17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-##  
-
-- 🔭 FrontEnd Developer
+##
   
 <!-- 
 
