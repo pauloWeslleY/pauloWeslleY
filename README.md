@@ -1,4 +1,4 @@
-### Hi, I am Weslley de Lima Developer Web Front End Jr 👋
+### Hi, I am Weslley de Lima Developer Web Front End 👋
 ##
 <div align="center">
   <a href="https://weslleylima.vercel.app">
